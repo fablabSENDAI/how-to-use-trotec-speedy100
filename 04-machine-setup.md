@@ -1,13 +1,13 @@
 ---
 layout: default
-title: マシンのセットアップ
+title: 04.マシンのセットアップ
 nav_order: 5
 ---
 
-## 04.マシンのセットアップ
-<br>
+# 04.マシンのセットアップ
+<br><br>
 
-#### 04.1 マシンの起動
+## 04.1 マシンの起動
 <br>
 
 <img src="assets/04-1.JPG" width="640" alt="hi" class="inline"/><br>
@@ -19,7 +19,7 @@ nav_order: 5
 また、このときに集塵機の電源が入ったかどうかも必ず確認すること。<br>
 <br>
 
-##### ★起動時の確認事項
+### ★起動時の確認事項
 
 * マシン上部の蓋は閉まっているか。
 
@@ -32,22 +32,22 @@ nav_order: 5
 <br>
 <br>
 
-#### 04.2 素材の設置
+## 04.2 素材の設置
 <br>
 
 <img src="assets/04-2.JPG" width="640" alt="hi" class="inline"/><br>
 
-素材をベッドの上に置く。基本的に、素材の左上部分がベッドにぴったりを沿うように設置すると良い。<br>
+素材をベッドの上に置く。素材の左上部分がベッドにぴったりを沿うように設置すると良い。<br>
 <br>
 <br>
 <br>
 
-#### 04.3 レーザー焦点距離の調整
+## 04.3 レーザー焦点距離の調整
 <br>
 
 レーザーカッターは、レーザー光の熱で様々な素材を加工する。<br>
 そのしくみは、虫眼鏡で太陽光を集め、その熱によって紙を燃やすことができるという現象と近い。<br>
-（参照：http://rikasapo.yagami-inc.co.jp/elementary/3nen/3-04.php?tab=3）<br>
+（参照：[http://rikasapo.yagami-inc.co.jp/elementary/3nen/3-04.php?tab=3](http://rikasapo.yagami-inc.co.jp/elementary/3nen/3-04.php?tab=3)）<br>
 そのため、綺麗に加工をするためには、レンズと素材との距離をきちんと設定する必要がある。<br>
 <br>
 

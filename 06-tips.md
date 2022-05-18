@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 加工(2)
+title: 06.加工(2)
 nav_order: 7
 ---
 
-## 06.加工(2)
-<br>
+# 06.加工(2)
+<br><br>
 
-#### ★一時停止、加工中断する
+## ★一時停止、加工中断する
 <br>
 
 **（方法1）操作パネルでの一時停止操作**
@@ -28,7 +28,7 @@ nav_order: 7
 <br>
 <br>
 
-#### ★同じ加工データでもう一度加工する
+## ★同じ加工データでもう一度加工する
 <br>
 
 <img src="assets/06-3.png" width="640" alt="hi" class="inline"/><br>
@@ -39,7 +39,7 @@ nav_order: 7
 <br>
 <br>
 
-#### ★加工データの向きを変える
+## ★加工データの向きを変える
 <br>
 
 <img src="assets/06-4.png" width="320" alt="hi" class="inline"/> <img src="assets/06-5.png" width="320" alt="hi" class="inline"/><br>
@@ -49,7 +49,7 @@ nav_order: 7
 <br>
 <br>
 
-#### ★原点の位置を数値で設定する
+## ★原点の位置を数値で設定する
 <br>
 
 <img src="assets/06-6.png" width="640" alt="hi" class="inline"/><br>

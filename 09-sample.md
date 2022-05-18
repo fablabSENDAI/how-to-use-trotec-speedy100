@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 参考サイト
+title: 09.参考サイト
 nav_order: 10
 ---
 
-## 09.参考サイト
-<br>
+# 09.参考サイト
+<br><br>
 
-#### ★レーザーカッターの素材加工・作品制作事例
+## ★レーザーカッターの素材加工・作品制作事例
 <br>
 
 * **FabLab SENDAI - FLAT 作品共有flickr：**[https://www.flickr.com/photos/flat-sendai/albums/](https://www.flickr.com/photos/flat-sendai/albums/)
@@ -24,7 +24,7 @@ nav_order: 10
 <br>
 <br>
 
-#### ★レーザー加工時のTips
+## ★レーザー加工時のTips
 <br>
 
 * **10 Tips and Tricks for Laser Engraving and Cutting：**<br>
@@ -36,7 +36,7 @@ nav_order: 10
 <br>
 <br>
 
-#### ★データ共有、画像検索サイト
+## ★データ共有、画像検索サイト
 <br>
 
 * **Instructables：**[https://www.instructables.com/](http://www.instructables.com/)
