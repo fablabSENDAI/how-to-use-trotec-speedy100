@@ -1,8 +1,11 @@
 ---
 layout: default
-title: readme
-nav_exclude: true
+title: Introduction
+nav_order: 1
 ---
+
+## 00.Introduction
+<br>
 
 [trotec speedy100](http://www.troteclaser.com/ja-JP/Laser-Machines/Pages/laser-engraving-machines-speedy.aspx)の使用マニュアルです。 <br>
 FabLab SENDAI - FLATでの使用方法をベースにまとめられた内容なので、同機種でも使用方法が異なる場合があります。<br>
@@ -10,7 +13,7 @@ FabLab SENDAI - FLATでの使用方法をベースにまとめられた内容な
 <br>
 <br>
 
-##### ★加工可能な素材例
+#### ★加工可能な素材例
 
 * サイズ：600mm × 300mm
 * マシンにセット可能な素材の厚さ：最大170mm
@@ -35,7 +38,7 @@ FabLab SENDAI - FLATでの使用方法をベースにまとめられた内容な
 <br>
 <br>
 
-##### ★加工NGな素材例
+#### ★加工NGな素材例
 
 * 各種金属：レーザーのパワーが弱いためNG
 * 塩化ビニル系素材、皮革（クロムなめし）：レーザー加工時に発生するガスが有毒なため
