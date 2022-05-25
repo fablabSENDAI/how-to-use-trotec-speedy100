@@ -13,9 +13,7 @@ nav_order: 2
 **2Dデータ**
 
 * **Adobe Illustrator（有料）：** [http://www.adobe.com/jp/products/illustrator.html](http://www.adobe.com/jp/products/illustrator.html)
-
 * **Inkscape（無料）：** [https://inkscape.org/ja/](https://inkscape.org/ja/)
-
 * **Method Draw（無料）：** [http://editor.method.ac/](http://editor.method.ac/）)
 
 <br>
@@ -23,7 +21,6 @@ nav_order: 2
 **3Dデータ**
 
 * **Rhinoceros （有料）：** [http://www.rhino3d.co.jp/](http://www.rhino3d.co.jp/)  
-
 * **Autodesk FUSION360（無料）：** [http://www.autodesk.co.jp/products/fusion-360/overview](http://www.autodesk.co.jp/products/fusion-360/overview)
 
 <br>
@@ -31,34 +28,29 @@ nav_order: 2
 **コーディング**
 
 * **JS outputs SVG：** [http://fabacademy.org/archives/2014/students/oami.takuma/computer\_controlled\_cutting.html](http://fabacademy.org/archives/2014/students/oami.takuma/computer_controlled_cutting.html)
-
 * **Processing：** [https://processing.org/](https://processing.org/)
 
-* **Open SCAD：** [http://www.openscad.org/](http://www.openscad.org/）)
+<br>
 <br>
 <br>
 
 ## ★データ形式
 <br>
 
-.ai、.dxf、.svg、.jpgなどのAdobe Illustratorで読み込み可能な形式<br>
+.ai、.dxf、.pdf、.svg、.jpgなどの**Adobe Illustratorで読み込み可能な形式**<br>
 ※Adobe Illustratorからレーザーカッター用ソフトウェアにデータを送信する必要があるため。
 
 <br>
 <br>
 
 ## ★必要なデータ
-<br>
 
 * **加工データサイズ：** 最大600mm x 300mm
-
 * **カラーモード：** RGB
-
 * **カット線：** カラー R 255 G 0 B 0 ／ 太さ 0.001mm
-
 * **彫刻：** カラー R 0 G 0 B 0
 
-※ただし、カット線および彫刻部分のカラー設定は上記の限りではない。
+※ただし、カット線および彫刻部分のカラー設定は上記の限りではありません。
 
 <br>
 
@@ -72,6 +64,5 @@ nav_order: 2
 ## ★データ作成時の注意
 
 * 文字ツールで入力した文字はアウトライン化すること！
-
 * 切断線は、なるべく結合した状態にしておくこと！<br>
-（データの読み込みや、実際の加工スピードが早くなるため）
+（データの読み込みや、実際の加工スピードが早くなるため。）

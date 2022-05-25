@@ -10,7 +10,7 @@ FabLab SENDAI - FLATでの使用方法をベースにまとめられた内容な
 <br>
 <br>
 
-##### ★加工可能な素材例
+## ★加工可能な素材例
 
 * サイズ：600mm × 300mm
 * マシンにセット可能な素材の厚さ：最大170mm
@@ -35,10 +35,10 @@ FabLab SENDAI - FLATでの使用方法をベースにまとめられた内容な
 <br>
 <br>
 
-##### ★加工NGな素材例
+## ★加工NGな素材例
 
 * 各種金属：レーザーのパワーが弱いためNG
 * 塩化ビニル系素材、皮革（クロムなめし）：レーザー加工時に発生するガスが有毒なため
 * レーザー加工用ではないゴム：レーザー加工時に強い異臭を発するため
 
-参考：http://www.troteclaser.com/ja-JP/Materials/Pages/Material-Overview.aspx
+参考：[http://www.troteclaser.com/ja-JP/Materials/Pages/Material-Overview.aspx](http://www.troteclaser.com/ja-JP/Materials/Pages/Material-Overview.aspx)
