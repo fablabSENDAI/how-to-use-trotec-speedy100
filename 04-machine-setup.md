@@ -10,7 +10,7 @@ nav_order: 5
 ## 04.1 マシンの起動
 <br>
 
-<img src="assets/04-1.JPG" width="640" alt="hi" class="inline"/><br>
+<img src="assets/04-1.jpg" width="640" alt="hi" class="inline"/><br>
 
 マシン上部の蓋を閉めた状態で、マシンの左裏についているスイッチを押し、電源を入れます。<br>
 （写真内の緑の丸のあたりにスイッチがあります。）<br>
@@ -32,7 +32,7 @@ nav_order: 5
 ## 04.2 素材の設置
 <br>
 
-<img src="assets/04-2.JPG" width="640" alt="hi" class="inline"/><br>
+<img src="assets/04-2.jpg" width="640" alt="hi" class="inline"/><br>
 
 素材をベッドの上に置きます。素材の左上部分がベッドにぴったりを沿うように設置するとセットしやすいです。<br>
 <br>
@@ -55,28 +55,28 @@ nav_order: 5
 また、このピント調整時に最もマシンを破損しやすいので、必ず注視しながら操作してください。<br>
 <br><br>
 
-<img src="assets/04-4.JPG" width="640" alt="hi" class="inline"/><br>
+<img src="assets/04-4.jpg" width="640" alt="hi" class="inline"/><br>
 
 レーザーの基準点として、赤いマーカー（レーザーポインター）が照射されます。<br>
 それが素材の中心あたりに来るように、レンズを操作パネルで移動させます。<br>
 <br><br>
 
-<img src="assets/04-5.JPG" width="640" alt="hi" class="inline"/><br>
+<img src="assets/04-5.jpg" width="640" alt="hi" class="inline"/><br>
 
 レンズと素材の距離を合わせるのには、写真のようなピント合わせ棒を用います。<br>
 <br><br>
 
-<img src="assets/04-6.JPG" width="320" alt="hi" class="inline"/> <img src="assets/04-7.JPG" width="320" alt="hi" class="inline"/><br>
+<img src="assets/04-6.jpg" width="320" alt="hi" class="inline"/> <img src="assets/04-7.jpg" width="320" alt="hi" class="inline"/><br>
 
 ピント合わせ棒の金色の突起部分を、レンズのパーツ横の段差（緑の丸部分）にひっかけて使用します。<br>
 <br><br>
 
-<img src="assets/04-8.JPG" width="640" alt="hi" class="inline"/><br>
+<img src="assets/04-8.jpg" width="640" alt="hi" class="inline"/><br>
 
 操作パネルでマシンの台座の位置を上昇させ、<br>
 素材上面にピント合わせ棒の先端が触れるように高さを調整します。<br>
 <br><br>
 
-<img src="assets/04-9.JPG" width="640" alt="hi" class="inline"/><br>
+<img src="assets/04-9.jpg" width="640" alt="hi" class="inline"/><br>
 
 操作パネルで、赤いマーカーを加工原点位置に移動させます。

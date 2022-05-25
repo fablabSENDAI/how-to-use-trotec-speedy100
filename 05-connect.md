@@ -53,7 +53,7 @@ PCとマシンの接続が完了すると、レーザーポインターの位置
 ## 05.4 加工完了
 <br>
 
-<img src="assets/05-6.JPG" width="640" alt="hi" class="inline"/><br>
+<img src="assets/05-6.jpg" width="640" alt="hi" class="inline"/><br>
 
 加工が完了すると、マシンから「ピー」というアラーム音が聞こえます。<br>
 そうしたら蓋を開け、素材を取り出します。<br>
