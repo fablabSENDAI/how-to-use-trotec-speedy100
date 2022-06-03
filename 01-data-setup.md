@@ -47,10 +47,11 @@ nav_order: 2
 
 * **加工データサイズ：** 最大600mm x 300mm
 * **カラーモード：** RGB
-* **カット線：** カラー R 255 G 0 B 0 ／ 太さ 0.001mm
-* **彫刻：** カラー R 0 G 0 B 0
+* **カット線：** 線カラー R 255 G 0 B 0 ／ 太さ 0.001mm
+* **彫刻：** 塗りカラー R 0 G 0 B 0
 
 ※ただし、カット線および彫刻部分のカラー設定は上記の限りではありません。
+[参考：trotec公式ドキュメント](https://www.troteclaser.com/ja/learn-support/helpcenter/laser-from-adobe-illustrator/)
 
 <br>
 
